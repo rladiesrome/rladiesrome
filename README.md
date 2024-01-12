@@ -8,7 +8,7 @@ Hi there, thank you for coming along!
 
 <a href="https://www.youtube.com/@rladiesrome"><img height="30" src="https://github.com/rladiesrome/RLadiesRome/blob/main/youtube.png?raw=true"></a> [R-Ladies Rome](https://www.youtube.com/@rladiesrome)
 
-We are R-Ladies Rome, a network of R practitioners in Paris. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, R-Ladies Global.
+We are R-Ladies Rome, a network of R practitioners in Rome. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, R-Ladies Global.
 
 Our goals are to provide a supportive and encouraging network for R users who are self-identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices. Everyone is welcome to join us!
 
