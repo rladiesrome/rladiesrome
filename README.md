@@ -2,9 +2,9 @@ Hi there, thank you for coming along!
 
 📝 Our Meetup group: https://www.meetup.com/rladies-rome/
 
-<a href="https://mastodon.social/@rladiesrome/"><img height="30" src="https://github.com/rladiesrome/RLadiesRome/blob/main/mastodon.png?raw=true"></a> [@rladiesrome](https://mastodon.social/@rladiesrome/)
+<a href="https://fosstodon.org/@rladiesrome"><img height="30" src="https://github.com/rladiesrome/rladiesrome/blob/main/mastodon.png?raw=true"></a> [@rladiesrome](https://fosstodon.org/@rladiesrome)
 
-<a href="[https://www.linkedin.com/company/88017166/](https://www.linkedin.com/company/88017166/)"><img height="30" src="https://github.com/rladiesrome/RLadiesRome/blob/main/linkedin.png?raw=true"></a> [R-Ladies Rome](https://www.linkedin.com/company/88017166/)
+<a href="[https://www.linkedin.com/company/88017166/](https://www.linkedin.com/company/88017166/)"><img height="30" src="https://github.com/rladiesrome/rladiesrome/blob/main/linkedin.png?raw=true"></a> [R-Ladies Rome](https://www.linkedin.com/company/88017166/)
 
 <a href="https://www.youtube.com/@rladiesrome"><img height="30" src="https://github.com/rladiesrome/RLadiesRome/blob/main/youtube.png?raw=true"></a> [R-Ladies Rome](https://www.youtube.com/@rladiesrome)
 
