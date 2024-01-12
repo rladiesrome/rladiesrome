@@ -1,4 +1,4 @@
-Hi there, thank you for coming along!
+# Welcome to R-Ladies Rome GitHub Repository!
 
 📝 Our Meetup group: https://www.meetup.com/rladies-rome/
 
