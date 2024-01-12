@@ -8,9 +8,7 @@
 
 <a href="https://www.youtube.com/@rladiesrome"><img height="30" src="https://github.com/rladiesrome/RLadiesRome/blob/main/youtube.png?raw=true"></a> [R-Ladies Rome](https://www.youtube.com/@rladiesrome)
 
-We are R-Ladies Rome, a network of R practitioners in Rome. We are a local chapter of a global open source community promoting gender inclusivity among R practitioners and learners, R-Ladies Global.
-
-Our goals are to provide a supportive and encouraging network for R users who are self-identified minorities and to promote learning and collaboration in the R community. We are open to anyone interested in programming in R, from experts to novices. Everyone is welcome to join us!
+R-Ladies Rome is a local chapter of R-Ladies Global, dedicated to promoting gender diversity in the R programming language community. Our monthly meetings provide a platform to discuss current trends and hot topics in R, we encourage active participation and engagement from all attendees. We welcome your suggestions and comments, and invite you to get in touch to join our vibrant community.
 
 👯 We are always open to collaborate on R-related subjects!
 
